@@ -4,7 +4,7 @@ I'm **Jaime**, a frontend developer based in Boston, MA, with a passion for acce
 
 ### 💻 What I'm working on:
 - **Languages/Frameworks**: Skilled in HTML, CSS, JavaScript, the Adobe Creative Suite, and Figma.
-- **Projects**: Currently building an app designed for solo female travelers, focusing on creating a safe and user-friendly experience.
+- **Projects**: Currently building an app designed to help users discover and experience local adventures and hidden gems in a fun and gamified way.
 - **Tech Interests**: Always diving deeper into web accessibility and inclusive design, ensuring that the web is a place everyone can navigate easily and equitably.
 
 ### 🌱 Currently learning:
