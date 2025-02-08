@@ -2,6 +2,10 @@
 
 I'm **Jaime**, a frontend developer based in Boston, MA, with a passion for accessibility, design, and diversity, equity, and inclusion (DEI). My background in film and communications has shaped how I approach the web, allowing me to blend creativity and functionality, while also leveraging my skills in **social media**, **photography**, and **videography**.
 
+### 🌐 A Few Websites I've Built ###
+- www.playcue.online
+- www.cssdesigns.art
+
 ### 💻 What I'm working on:
 - **Languages/Frameworks**: Skilled in HTML, CSS, JavaScript, the Adobe Creative Suite, and Figma.
 - **Projects**: Currently building an app designed to help users discover and experience local adventures and hidden gems in a fun and gamified way.
