@@ -5,6 +5,7 @@ I'm **Jaime**, a frontend developer based in Boston, MA, with a passion for acce
 ### 🌐 A Few Websites I've Built ###
 - www.playcue.online
 - www.cssdesigns.art
+- www.quillandquarrel.io
 
 ### 💻 What I'm working on:
 - **Languages/Frameworks**: Skilled in HTML, CSS, JavaScript, the Adobe Creative Suite, and Figma.
