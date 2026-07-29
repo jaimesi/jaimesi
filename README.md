@@ -1,6 +1,6 @@
 ## 👋 Hi there, welcome to my GitHub!
 
-I'm **Jaime**, a frontend developer based in Boston, MA, with a passion for accessibility, design, and diversity, equity, and inclusion (DEI). My background in film and communications has shaped how I approach the web, allowing me to blend creativity and functionality, while also leveraging my skills in **social media**, **photography**, and **videography**.
+I'm **Jaime**, based in Toronto, Canada, with a passion for accessibility, design, and diversity, equity, and inclusion (DEI). My background in film and communications has shaped how I approach the web, allowing me to blend creativity and functionality, while also leveraging my skills in **social media**, **photography**, and **videography**.
 
 ### 🌐 A Few Websites I've Built ###
 - www.playcue.online
@@ -14,10 +14,10 @@ I'm **Jaime**, a frontend developer based in Boston, MA, with a passion for acce
 
 ### 🌱 Currently learning:
 - Expanding my skills in AWS and cloud computing.
-- Balancing my coding journey with becoming an amateur chef, because life's all about variety.
+- Balancing my coding journey with becoming a hobbyist potter, because life's all about variety.
 
 ### 🎨 Outside of tech:
-When I'm not coding, you can find me playing and writing music, travelling to new states, or hosting wine and paint nights with friends. I’m also in the process of writing my first musical and love discussing Broadway shows—feel free to share your favorites!
+When I'm not coding, you can find me playing and writing music, traveling to new countries, or hosting wine and paint nights with friends. I’m also in the process of writing my first musical and love discussing Broadway shows—feel free to share your favorites!
 
 ### 📫 Get in touch:
 - Let’s collaborate, chat, or geek out over tech or anything else! You can find me on [LinkedIn](https://www.linkedin.com/in/jaimesi/).
